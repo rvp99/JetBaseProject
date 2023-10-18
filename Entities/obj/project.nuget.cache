@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "2JIafUOJ7d1xEF75kuloMFiYTYuBIUavLTWVRNNoJsrXCc/aQve3BKVvseEFo3pMDhNJuylCmEX75/MYPd5wQw==",
+  "success": false,
+  "projectFilePath": "/Users/serkanalsabeyit/Desktop/JwtBaseProject/Entities/Entities.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1104",
+      "level": "Error",
+      "message": "Unable to find project '/Users/serkanalsabeyit/Desktop/JwtBaseProject/Core/Core.csproj'. Check that the project reference is valid and that the project file exists.",
+      "libraryId": "/Users/serkanalsabeyit/Desktop/JwtBaseProject/Core/Core.csproj",
+      "targetGraphs": [
+        "net7.0"
+      ]
+    }
+  ]
+}
