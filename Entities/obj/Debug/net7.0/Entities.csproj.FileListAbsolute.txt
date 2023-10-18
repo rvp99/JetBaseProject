@@ -1,0 +1,45 @@
+/Users/serkanalsabeyit/Desktop/Coding/C# Project/BaseProjectForGit/Entities/bin/Debug/net7.0/Entities.deps.json
+/Users/serkanalsabeyit/Desktop/Coding/C# Project/BaseProjectForGit/Entities/bin/Debug/net7.0/Entities.dll
+/Users/serkanalsabeyit/Desktop/Coding/C# Project/BaseProjectForGit/Entities/bin/Debug/net7.0/Entities.pdb
+/Users/serkanalsabeyit/Desktop/Coding/C# Project/BaseProjectForGit/Entities/bin/Debug/net7.0/Core.dll
+/Users/serkanalsabeyit/Desktop/Coding/C# Project/BaseProjectForGit/Entities/bin/Debug/net7.0/Core.pdb
+/Users/serkanalsabeyit/Desktop/Coding/C# Project/BaseProjectForGit/Entities/obj/Debug/net7.0/Entities.csproj.AssemblyReference.cache
+/Users/serkanalsabeyit/Desktop/Coding/C# Project/BaseProjectForGit/Entities/obj/Debug/net7.0/Entities.GeneratedMSBuildEditorConfig.editorconfig
+/Users/serkanalsabeyit/Desktop/Coding/C# Project/BaseProjectForGit/Entities/obj/Debug/net7.0/Entities.AssemblyInfoInputs.cache
+/Users/serkanalsabeyit/Desktop/Coding/C# Project/BaseProjectForGit/Entities/obj/Debug/net7.0/Entities.AssemblyInfo.cs
+/Users/serkanalsabeyit/Desktop/Coding/C# Project/BaseProjectForGit/Entities/obj/Debug/net7.0/Entities.csproj.CoreCompileInputs.cache
+/Users/serkanalsabeyit/Desktop/Coding/C# Project/BaseProjectForGit/Entities/obj/Debug/net7.0/Entities.csproj.CopyComplete
+/Users/serkanalsabeyit/Desktop/Coding/C# Project/BaseProjectForGit/Entities/obj/Debug/net7.0/Entities.dll
+/Users/serkanalsabeyit/Desktop/Coding/C# Project/BaseProjectForGit/Entities/obj/Debug/net7.0/refint/Entities.dll
+/Users/serkanalsabeyit/Desktop/Coding/C# Project/BaseProjectForGit/Entities/obj/Debug/net7.0/Entities.pdb
+/Users/serkanalsabeyit/Desktop/Coding/C# Project/BaseProjectForGit/Entities/obj/Debug/net7.0/ref/Entities.dll
+/Users/serkanalsabeyit/Desktop/JwtProjectForGit/Entities/bin/Debug/net7.0/Entities.deps.json
+/Users/serkanalsabeyit/Desktop/JwtProjectForGit/Entities/bin/Debug/net7.0/Entities.dll
+/Users/serkanalsabeyit/Desktop/JwtProjectForGit/Entities/bin/Debug/net7.0/Entities.pdb
+/Users/serkanalsabeyit/Desktop/JwtProjectForGit/Entities/bin/Debug/net7.0/Core.dll
+/Users/serkanalsabeyit/Desktop/JwtProjectForGit/Entities/bin/Debug/net7.0/Core.pdb
+/Users/serkanalsabeyit/Desktop/JwtProjectForGit/Entities/obj/Debug/net7.0/Entities.csproj.AssemblyReference.cache
+/Users/serkanalsabeyit/Desktop/JwtProjectForGit/Entities/obj/Debug/net7.0/Entities.GeneratedMSBuildEditorConfig.editorconfig
+/Users/serkanalsabeyit/Desktop/JwtProjectForGit/Entities/obj/Debug/net7.0/Entities.AssemblyInfoInputs.cache
+/Users/serkanalsabeyit/Desktop/JwtProjectForGit/Entities/obj/Debug/net7.0/Entities.AssemblyInfo.cs
+/Users/serkanalsabeyit/Desktop/JwtProjectForGit/Entities/obj/Debug/net7.0/Entities.csproj.CoreCompileInputs.cache
+/Users/serkanalsabeyit/Desktop/JwtProjectForGit/Entities/obj/Debug/net7.0/Entities.csproj.CopyComplete
+/Users/serkanalsabeyit/Desktop/JwtProjectForGit/Entities/obj/Debug/net7.0/Entities.dll
+/Users/serkanalsabeyit/Desktop/JwtProjectForGit/Entities/obj/Debug/net7.0/refint/Entities.dll
+/Users/serkanalsabeyit/Desktop/JwtProjectForGit/Entities/obj/Debug/net7.0/Entities.pdb
+/Users/serkanalsabeyit/Desktop/JwtProjectForGit/Entities/obj/Debug/net7.0/ref/Entities.dll
+/Users/serkanalsabeyit/Desktop/JwtBaseProject/Entities/bin/Debug/net7.0/Entities.deps.json
+/Users/serkanalsabeyit/Desktop/JwtBaseProject/Entities/bin/Debug/net7.0/Entities.dll
+/Users/serkanalsabeyit/Desktop/JwtBaseProject/Entities/bin/Debug/net7.0/Entities.pdb
+/Users/serkanalsabeyit/Desktop/JwtBaseProject/Entities/bin/Debug/net7.0/Core.dll
+/Users/serkanalsabeyit/Desktop/JwtBaseProject/Entities/bin/Debug/net7.0/Core.pdb
+/Users/serkanalsabeyit/Desktop/JwtBaseProject/Entities/obj/Debug/net7.0/Entities.csproj.AssemblyReference.cache
+/Users/serkanalsabeyit/Desktop/JwtBaseProject/Entities/obj/Debug/net7.0/Entities.GeneratedMSBuildEditorConfig.editorconfig
+/Users/serkanalsabeyit/Desktop/JwtBaseProject/Entities/obj/Debug/net7.0/Entities.AssemblyInfoInputs.cache
+/Users/serkanalsabeyit/Desktop/JwtBaseProject/Entities/obj/Debug/net7.0/Entities.AssemblyInfo.cs
+/Users/serkanalsabeyit/Desktop/JwtBaseProject/Entities/obj/Debug/net7.0/Entities.csproj.CoreCompileInputs.cache
+/Users/serkanalsabeyit/Desktop/JwtBaseProject/Entities/obj/Debug/net7.0/Entities.csproj.CopyComplete
+/Users/serkanalsabeyit/Desktop/JwtBaseProject/Entities/obj/Debug/net7.0/Entities.dll
+/Users/serkanalsabeyit/Desktop/JwtBaseProject/Entities/obj/Debug/net7.0/refint/Entities.dll
+/Users/serkanalsabeyit/Desktop/JwtBaseProject/Entities/obj/Debug/net7.0/Entities.pdb
+/Users/serkanalsabeyit/Desktop/JwtBaseProject/Entities/obj/Debug/net7.0/ref/Entities.dll
