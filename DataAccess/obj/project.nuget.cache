@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "813Ro2IJCA950d82emk3OfQnkqpmK4ALWsZV3vNR+MG+owwQNPXz31VnjVLzea4GLqbN6ufJ+7yPHVljp4SGgg==",
+  "dgSpecHash": "4Azph37KqQx8dsCEbInDrOojTC+oqMFx8Z7myqAp2kr9CcI8SaBxp6H+ZGzF3VeZJIO1uBumRHSlzdHbIrBtTA==",
   "success": true,
   "projectFilePath": "/Users/serkanalsabeyit/Desktop/JwtBaseProject/DataAccess/DataAccess.csproj",
   "expectedPackageFiles": [
@@ -22,6 +22,7 @@
     "/Users/serkanalsabeyit/.nuget/packages/microsoft.extensions.caching.abstractions/7.0.0/microsoft.extensions.caching.abstractions.7.0.0.nupkg.sha512",
     "/Users/serkanalsabeyit/.nuget/packages/microsoft.extensions.caching.memory/7.0.0/microsoft.extensions.caching.memory.7.0.0.nupkg.sha512",
     "/Users/serkanalsabeyit/.nuget/packages/microsoft.extensions.configuration.abstractions/7.0.0/microsoft.extensions.configuration.abstractions.7.0.0.nupkg.sha512",
+    "/Users/serkanalsabeyit/.nuget/packages/microsoft.extensions.configuration.binder/7.0.4/microsoft.extensions.configuration.binder.7.0.4.nupkg.sha512",
     "/Users/serkanalsabeyit/.nuget/packages/microsoft.extensions.dependencyinjection/7.0.0/microsoft.extensions.dependencyinjection.7.0.0.nupkg.sha512",
     "/Users/serkanalsabeyit/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/7.0.0/microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512",
     "/Users/serkanalsabeyit/.nuget/packages/microsoft.extensions.logging/7.0.0/microsoft.extensions.logging.7.0.0.nupkg.sha512",

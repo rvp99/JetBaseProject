@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "R91gRxAGWbxe2x0jZ5t+M/4RbnO3pzAE+nncQ1sHD4KwSD4bFg6OEVdbSY/HBEXsaAJ5AFVvOEfXnl389meqpQ==",
+  "dgSpecHash": "aMw+mLYXp9IMjN/SYLEy07s//VKNyVdygKYW+fS49RWFrxqyZOFtESah7aYF9PQ9UR8QnWALwpNypA7MFHx+1A==",
   "success": true,
   "projectFilePath": "/Users/serkanalsabeyit/Desktop/JwtBaseProject/Business/Business.csproj",
   "expectedPackageFiles": [
@@ -23,6 +23,7 @@
     "/Users/serkanalsabeyit/.nuget/packages/microsoft.extensions.caching.abstractions/7.0.0/microsoft.extensions.caching.abstractions.7.0.0.nupkg.sha512",
     "/Users/serkanalsabeyit/.nuget/packages/microsoft.extensions.caching.memory/7.0.0/microsoft.extensions.caching.memory.7.0.0.nupkg.sha512",
     "/Users/serkanalsabeyit/.nuget/packages/microsoft.extensions.configuration.abstractions/7.0.0/microsoft.extensions.configuration.abstractions.7.0.0.nupkg.sha512",
+    "/Users/serkanalsabeyit/.nuget/packages/microsoft.extensions.configuration.binder/7.0.4/microsoft.extensions.configuration.binder.7.0.4.nupkg.sha512",
     "/Users/serkanalsabeyit/.nuget/packages/microsoft.extensions.dependencyinjection/7.0.0/microsoft.extensions.dependencyinjection.7.0.0.nupkg.sha512",
     "/Users/serkanalsabeyit/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/7.0.0/microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512",
     "/Users/serkanalsabeyit/.nuget/packages/microsoft.extensions.logging/7.0.0/microsoft.extensions.logging.7.0.0.nupkg.sha512",
