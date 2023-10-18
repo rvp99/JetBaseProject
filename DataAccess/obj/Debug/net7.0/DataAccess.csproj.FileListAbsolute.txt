@@ -1,0 +1,34 @@
+/Users/serkanalsabeyit/Desktop/Coding/C# Project/BaseProjectForGit/DataAccess/bin/Debug/net7.0/DataAccess.deps.json
+/Users/serkanalsabeyit/Desktop/Coding/C# Project/BaseProjectForGit/DataAccess/bin/Debug/net7.0/DataAccess.dll
+/Users/serkanalsabeyit/Desktop/Coding/C# Project/BaseProjectForGit/DataAccess/bin/Debug/net7.0/DataAccess.pdb
+/Users/serkanalsabeyit/Desktop/Coding/C# Project/BaseProjectForGit/DataAccess/bin/Debug/net7.0/Core.dll
+/Users/serkanalsabeyit/Desktop/Coding/C# Project/BaseProjectForGit/DataAccess/bin/Debug/net7.0/Entities.dll
+/Users/serkanalsabeyit/Desktop/Coding/C# Project/BaseProjectForGit/DataAccess/bin/Debug/net7.0/Entities.pdb
+/Users/serkanalsabeyit/Desktop/Coding/C# Project/BaseProjectForGit/DataAccess/bin/Debug/net7.0/Core.pdb
+/Users/serkanalsabeyit/Desktop/Coding/C# Project/BaseProjectForGit/DataAccess/obj/Debug/net7.0/DataAccess.csproj.AssemblyReference.cache
+/Users/serkanalsabeyit/Desktop/Coding/C# Project/BaseProjectForGit/DataAccess/obj/Debug/net7.0/DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+/Users/serkanalsabeyit/Desktop/Coding/C# Project/BaseProjectForGit/DataAccess/obj/Debug/net7.0/DataAccess.AssemblyInfoInputs.cache
+/Users/serkanalsabeyit/Desktop/Coding/C# Project/BaseProjectForGit/DataAccess/obj/Debug/net7.0/DataAccess.AssemblyInfo.cs
+/Users/serkanalsabeyit/Desktop/Coding/C# Project/BaseProjectForGit/DataAccess/obj/Debug/net7.0/DataAccess.csproj.CoreCompileInputs.cache
+/Users/serkanalsabeyit/Desktop/Coding/C# Project/BaseProjectForGit/DataAccess/obj/Debug/net7.0/DataAccess.csproj.CopyComplete
+/Users/serkanalsabeyit/Desktop/Coding/C# Project/BaseProjectForGit/DataAccess/obj/Debug/net7.0/DataAccess.dll
+/Users/serkanalsabeyit/Desktop/Coding/C# Project/BaseProjectForGit/DataAccess/obj/Debug/net7.0/refint/DataAccess.dll
+/Users/serkanalsabeyit/Desktop/Coding/C# Project/BaseProjectForGit/DataAccess/obj/Debug/net7.0/DataAccess.pdb
+/Users/serkanalsabeyit/Desktop/Coding/C# Project/BaseProjectForGit/DataAccess/obj/Debug/net7.0/ref/DataAccess.dll
+/Users/serkanalsabeyit/Desktop/JwtProjectForGit/DataAccess/bin/Debug/net7.0/DataAccess.deps.json
+/Users/serkanalsabeyit/Desktop/JwtProjectForGit/DataAccess/bin/Debug/net7.0/DataAccess.dll
+/Users/serkanalsabeyit/Desktop/JwtProjectForGit/DataAccess/bin/Debug/net7.0/DataAccess.pdb
+/Users/serkanalsabeyit/Desktop/JwtProjectForGit/DataAccess/bin/Debug/net7.0/Core.dll
+/Users/serkanalsabeyit/Desktop/JwtProjectForGit/DataAccess/bin/Debug/net7.0/Entities.dll
+/Users/serkanalsabeyit/Desktop/JwtProjectForGit/DataAccess/bin/Debug/net7.0/Entities.pdb
+/Users/serkanalsabeyit/Desktop/JwtProjectForGit/DataAccess/bin/Debug/net7.0/Core.pdb
+/Users/serkanalsabeyit/Desktop/JwtProjectForGit/DataAccess/obj/Debug/net7.0/DataAccess.csproj.AssemblyReference.cache
+/Users/serkanalsabeyit/Desktop/JwtProjectForGit/DataAccess/obj/Debug/net7.0/DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+/Users/serkanalsabeyit/Desktop/JwtProjectForGit/DataAccess/obj/Debug/net7.0/DataAccess.AssemblyInfoInputs.cache
+/Users/serkanalsabeyit/Desktop/JwtProjectForGit/DataAccess/obj/Debug/net7.0/DataAccess.AssemblyInfo.cs
+/Users/serkanalsabeyit/Desktop/JwtProjectForGit/DataAccess/obj/Debug/net7.0/DataAccess.csproj.CoreCompileInputs.cache
+/Users/serkanalsabeyit/Desktop/JwtProjectForGit/DataAccess/obj/Debug/net7.0/DataAccess.csproj.CopyComplete
+/Users/serkanalsabeyit/Desktop/JwtProjectForGit/DataAccess/obj/Debug/net7.0/DataAccess.dll
+/Users/serkanalsabeyit/Desktop/JwtProjectForGit/DataAccess/obj/Debug/net7.0/refint/DataAccess.dll
+/Users/serkanalsabeyit/Desktop/JwtProjectForGit/DataAccess/obj/Debug/net7.0/DataAccess.pdb
+/Users/serkanalsabeyit/Desktop/JwtProjectForGit/DataAccess/obj/Debug/net7.0/ref/DataAccess.dll
