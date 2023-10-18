@@ -1,0 +1,24 @@
+/Users/serkanalsabeyit/Desktop/Coding/C# Project/BaseProjectForGit/Core/bin/Debug/net7.0/Core.deps.json
+/Users/serkanalsabeyit/Desktop/Coding/C# Project/BaseProjectForGit/Core/bin/Debug/net7.0/Core.dll
+/Users/serkanalsabeyit/Desktop/Coding/C# Project/BaseProjectForGit/Core/bin/Debug/net7.0/Core.pdb
+/Users/serkanalsabeyit/Desktop/Coding/C# Project/BaseProjectForGit/Core/obj/Debug/net7.0/Core.csproj.AssemblyReference.cache
+/Users/serkanalsabeyit/Desktop/Coding/C# Project/BaseProjectForGit/Core/obj/Debug/net7.0/Core.GeneratedMSBuildEditorConfig.editorconfig
+/Users/serkanalsabeyit/Desktop/Coding/C# Project/BaseProjectForGit/Core/obj/Debug/net7.0/Core.AssemblyInfoInputs.cache
+/Users/serkanalsabeyit/Desktop/Coding/C# Project/BaseProjectForGit/Core/obj/Debug/net7.0/Core.AssemblyInfo.cs
+/Users/serkanalsabeyit/Desktop/Coding/C# Project/BaseProjectForGit/Core/obj/Debug/net7.0/Core.csproj.CoreCompileInputs.cache
+/Users/serkanalsabeyit/Desktop/Coding/C# Project/BaseProjectForGit/Core/obj/Debug/net7.0/Core.dll
+/Users/serkanalsabeyit/Desktop/Coding/C# Project/BaseProjectForGit/Core/obj/Debug/net7.0/refint/Core.dll
+/Users/serkanalsabeyit/Desktop/Coding/C# Project/BaseProjectForGit/Core/obj/Debug/net7.0/Core.pdb
+/Users/serkanalsabeyit/Desktop/Coding/C# Project/BaseProjectForGit/Core/obj/Debug/net7.0/ref/Core.dll
+/Users/serkanalsabeyit/Desktop/JwtProjectForGit/Core/bin/Debug/net7.0/Core.deps.json
+/Users/serkanalsabeyit/Desktop/JwtProjectForGit/Core/bin/Debug/net7.0/Core.dll
+/Users/serkanalsabeyit/Desktop/JwtProjectForGit/Core/bin/Debug/net7.0/Core.pdb
+/Users/serkanalsabeyit/Desktop/JwtProjectForGit/Core/obj/Debug/net7.0/Core.csproj.AssemblyReference.cache
+/Users/serkanalsabeyit/Desktop/JwtProjectForGit/Core/obj/Debug/net7.0/Core.GeneratedMSBuildEditorConfig.editorconfig
+/Users/serkanalsabeyit/Desktop/JwtProjectForGit/Core/obj/Debug/net7.0/Core.AssemblyInfoInputs.cache
+/Users/serkanalsabeyit/Desktop/JwtProjectForGit/Core/obj/Debug/net7.0/Core.AssemblyInfo.cs
+/Users/serkanalsabeyit/Desktop/JwtProjectForGit/Core/obj/Debug/net7.0/Core.csproj.CoreCompileInputs.cache
+/Users/serkanalsabeyit/Desktop/JwtProjectForGit/Core/obj/Debug/net7.0/Core.dll
+/Users/serkanalsabeyit/Desktop/JwtProjectForGit/Core/obj/Debug/net7.0/refint/Core.dll
+/Users/serkanalsabeyit/Desktop/JwtProjectForGit/Core/obj/Debug/net7.0/Core.pdb
+/Users/serkanalsabeyit/Desktop/JwtProjectForGit/Core/obj/Debug/net7.0/ref/Core.dll
